@@ -44,4 +44,5 @@ console.log(find)
 // Calculate total product price
 
 const reduce = arrayObject.reduce((p, c) => p + c.price, 0);
-console.log('Total sum of product price = ',reduce)
+console.log('Total sum of product price = ', reduce)
+
